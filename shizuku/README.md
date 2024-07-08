@@ -30,5 +30,5 @@ public static void grantRuntimePermission(String packageName, String permissionN
 
 ::: tip
 
-There a few more steps to do, like checking permission or if Shizuku is running.
+There's a few more steps to do, like checking permission or if Shizuku is running.
 :::
