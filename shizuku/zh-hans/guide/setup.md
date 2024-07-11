@@ -40,7 +40,7 @@ Shizuku 支持通过以下三种方式启动。
 
 <img :src="$withBase('/images/start_shizuku.png')" style="max-width:320px;width:100%">
 
-如果无法启动，尝试禁用并启用无线调试。
+如果无法启动，尝试先禁用再启用无线调试。
 
 ### 通过连接电脑启动
 
