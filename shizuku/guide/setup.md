@@ -1,4 +1,4 @@
-# User manual
+control + Shift+ mUser manual
 
 [[toc]]
 
