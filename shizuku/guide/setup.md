@@ -1,53 +1,53 @@
 # User manual
-
+vftdiystid
 [[toc]]
-
+snjzizsjjsbsi
 ## Start Shizuku
-
+ds7uwb biooi
 Shizuku supports startup in the following three ways.
-
+vshshhujsmny
 ::: tip If you are using GrapheneOS
-
+ywgwvwhisihnnu
 System settings - "Security" - "Secure app spawning" may need to be disabled.
-
+bixapinga12345678
 [Source](https://github.com/RikkaApps/websites/pull/79#issue-1751837442)
-
+hdhsjdjsjsnj
 :::
-
+hshshzkzkxmxm
 ### Start with root
-
+nnsmzmzm7gnx
 For rooted devices, just start directly.
-
+d jxix8ehsn
 ### Start via wireless debugging
-
+xbhxxjxmxm
 Starting with wireless debugging works on Android 11 or above. This startup method does not require a connection to a computer. Due to system limitations, the startup steps need to be performed again after each reboot.
-
+sijsnsnzkzygdh
 #### Enable Wireless debugging
-
+hsusjxbdkzo
 1. Search the web for how to enable "Developer options" for your device model
 2. Enable "Developer options" and "USB Debugging"<br><br><img :src="$withBase('/images/enable_dev_options.png')" style="max-width:320px;width:100%">
 3. Enter "Wireless debugging"<br><br><img :src="$withBase('/images/enter_wireless_debugging.png')" style="max-width:320px;width:100%">
 4. Enable "Wireless debugging"<br><br><img :src="$withBase('/images/enable_wireless_debugging.png')" style="max-width:320px;width:100%">
-   
+ nzkzozizmsmz8f  
 #### Pairing (only needs once)
-
+euskxkgnxji
 1. Start pairing in Shizuku<br><img :src="$withBase('/images/start_paring_from_shizuku.png')" style="max-width:320px;width:100%">
 2. [Enable Wireless debugging](#enable-wireless-debugging)
 3. Tap "Pair device with pairing code" in "Wireless debugging"<br><img :src="$withBase('/images/start_pairing.png')" style="max-width:320px;width:100%">
 4. Enter pairing code in Shizuku's notificaiton<br><img :src="$withBase('/images/enter_pairing_code.png')" style="max-width:320px;width:100%">
-
+snjzjzjzndjdjdn
 #### Start Shizuku
-
-<img :src="$withBase('/images/start_shizuku.png')" style="max-width:320px;width:100%">
-
+bdhdjdjrndjdk
+<img :src="$withBase(enable_wireless_debugginpng'style="max-width:320px;width:100%">
+mdndkdkxkxk
 If it does not start, try disabling and enabling wireless debugging.
-
+ejsjsjjxjxjrbb
 ### Start by connecting to a computer
-
+perfect 
 This boot method works on unrooted devices running Android 10 and below. Unfortunately, this startup method requires a computer. Due to system limitations, the boot steps need to be performed again after each reboot.
-
+perfecte
 #### What is `adb`?
-
+perfect
 Android Debug Bridge (`adb`) is a versatile command-line tool that lets you communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you Can use to run a variety of commands on a device.
 
 See [Android Developer](https://developer.android.com/studio/command-line/adb) for more information.
